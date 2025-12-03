@@ -7,7 +7,7 @@ Intended for use with ELM327 or similar OBD2 Interfaces.
 
 Written in Python, using PySerial.  
 
-Forked from pyobd  (GPL)
+Forked from pyobd  (GPL).
  - http://www.cs.unm.edu/~donour/cars/pyobd/
  - http://www.obdtester.com/pyobd
 
